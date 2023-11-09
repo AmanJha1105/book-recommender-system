@@ -13,7 +13,7 @@ Dataset from Kaggle
 Install dependencies:
 pip install -r requirements.txt
 
-![Screenshot 2023-11-09 194611](https://github.com/AmanJha1105/book-recommender-system/assets/125438101/73adcd5d-dad5-4adb-b
+![image](https://github.com/AmanJha1105/book-recommender-system/assets/125438101/9fc41a9a-3a4d-4a20-91d5-150f60b93789)
 
 
 
