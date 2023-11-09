@@ -15,6 +15,10 @@ pip install -r requirements.txt
 
 ![image](https://github.com/AmanJha1105/book-recommender-system/assets/125438101/9fc41a9a-3a4d-4a20-91d5-150f60b93789)
 
+![image](https://github.com/AmanJha1105/book-recommender-system/assets/125438101/511cce31-2e8a-431b-934a-36fde0812607)
+
+
+
 
 
 
